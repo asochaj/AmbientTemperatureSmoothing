@@ -1,0 +1,2 @@
+# AmbientTemperatureSmoothing
+Ambient temperature smoothing algorithm
